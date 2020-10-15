@@ -7,3 +7,5 @@ Helt simpel express demo
 - Kør "npm install"
 - Kør "npm start"
 - Åbn en browser på http://localhost:3000
+
+Se også https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website
